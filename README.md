@@ -39,3 +39,15 @@ Currently working primarily with **Python, TypeScript, Node.js and Django**, wit
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Featured Project
+
+### GovFlow
+
+A backend platform for managing and executing automated workflows, designed around asynchronous processing, reliability and clear separation of responsibilities.
+
+**Key concepts:** REST API • Asynchronous Processing • Retry & Backoff • Idempotency • RBAC • Audit Logs
+
+**Stack:** Node.js • TypeScript • PostgreSQL • Redis • BullMQ • Docker • Jira Integration
+
+[View repository →](https://github.com/erikvianadev/GovFlow)
