@@ -51,3 +51,9 @@ A backend platform for managing and executing automated workflows, designed arou
 **Stack:** Node.js • TypeScript • PostgreSQL • Redis • BullMQ • Docker • Jira Integration
 
 [View repository →](https://github.com/erikvianadev/GovFlow)
+
+## Contact
+
+Feel free to connect with me or reach out:
+
+[LinkedIn](https://www.linkedin.com/in/erik-viana-dev)
