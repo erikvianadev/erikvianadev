@@ -48,7 +48,7 @@ A backend platform for managing and executing automated workflows, designed arou
 
 **Key concepts:** REST API • Asynchronous Processing • Retry & Backoff • Idempotency • RBAC • Audit Logs
 
-**Stack:** Node.js • TypeScript • PostgreSQL • Redis • BullMQ • Docker • Jira Integration
+**Stack:** Node.js • JavaScript • PostgreSQL • Redis • BullMQ • Docker • Jira Integration
 
 [View repository →](https://github.com/erikvianadev/GovFlow)
 
