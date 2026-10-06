@@ -1,19 +1,21 @@
 # Erik Viana
 
-### Full Stack Developer | Backend Focus
+### Backend Developer | Python • Node.js • TypeScript
 
-Building backend systems, APIs and automations with a focus on clean architecture, reliability and maintainable code.
-
-`Python` `TypeScript` `Node.js` `Django` `PostgreSQL`
+Building backend systems, APIs and automations with a focus on reliability,
+clear architecture and maintainable code.
 
 ## About
 
-I'm a Full Stack Developer with a strong focus on backend development, currently working with web systems, APIs and automation.
+I'm a backend-focused developer currently working with web systems and
+Python-based automation and data migration.
 
-My main focus is building reliable and maintainable backend applications while continuously improving my knowledge of software architecture, databases, testing and distributed systems.
+My main focus is building APIs and backend applications using Python,
+Node.js and TypeScript, while deepening my knowledge of databases,
+testing, asynchronous processing and software architecture.
 
-Currently working primarily with **Python, TypeScript, Node.js and Django**, with experience across the full stack when needed.
-
+I also have frontend experience with HTML, CSS, React and Next.js,
+which I use as a complementary skill when needed.
 ## Tech Stack
 
 **Backend**
